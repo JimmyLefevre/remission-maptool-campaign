@@ -1,0 +1,9 @@
+Keeba:
+- Tester une map separee qui contient un token par sort
+-   Descriptions
+-   Layout des branches
+- UDF au lieu d'appels de macros directs
+- Separation du code "moteur" et du code que les joueurs mettent pour specifier leurs armes/buffs
+- Macro "Initiative" ne marche pas toujours?
+
+Gartor:
