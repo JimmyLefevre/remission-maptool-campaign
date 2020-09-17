@@ -5,5 +5,6 @@ Keeba:
 - UDF au lieu d'appels de macros directs
 - Separation du code "moteur" et du code que les joueurs mettent pour specifier leurs armes/buffs
 - Macro "Initiative" ne marche pas toujours?
+- Voir si on peut mettre les tokens librairies sur une map reservee aux GM
 
 Gartor:
