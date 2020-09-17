@@ -8,3 +8,9 @@ Keeba:
 - Voir si on peut mettre les tokens librairies sur une map reservee aux GM
 
 Gartor:
+- Design des sorts pour des branches "classiques"
+- Etoffer les règles de combat
+- Faire une guideline sur la création des sorts
+- Dessiner
+- Dessiner
+- Dessiner
