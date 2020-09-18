@@ -2,8 +2,8 @@ Keeba:
 - Separation du code "moteur" et du code que les joueurs mettent pour specifier leurs armes/buffs
 - Macro "Initiative" ne marche pas toujours?
 - Voir si on peut mettre les tokens librairies sur une map reservee aux GM
--   Creer une nouvelle map, voir si on peut appeler des macros d'une librairie depuis une autre map
--     Si oui, alors generer les macros pour les sorts/armes/etc. est OK
+- Macro "Equiper" qui cree une macro pour utiliser l'arme/le sort/etc.
+- Mettre les attributs numeriques de base entre accolades pour les rendre plus faciles a modifier
 
 Gartor:
 - Design des sorts pour des branches "classiques"
