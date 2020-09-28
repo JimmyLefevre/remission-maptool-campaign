@@ -1,10 +1,5 @@
 Keeba:
-- Separation du code "moteur" et du code que les joueurs mettent pour specifier leurs armes/buffs
-- Macro "Initiative" ne marche pas toujours?
-- Voir si on peut mettre les tokens librairies sur une map reservee aux GM
-- Macro "Equiper" qui cree une macro pour utiliser l'arme/le sort/etc.
-- Mettre les attributs numeriques de base entre accolades pour les rendre plus faciles a modifier
-- Stat sheets, portraits, handouts
+- Merge
 
 Gartor:
 - Design des sorts pour des branches "classiques"
