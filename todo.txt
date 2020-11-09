@@ -1,5 +1,5 @@
 Keeba:
-- Merge
+- Macros pour deplacer les tokens entre maps? Couper-coller a l'air plus simple et aussi bien.
 
 Gartor:
 - Design des sorts pour des branches "classiques"
